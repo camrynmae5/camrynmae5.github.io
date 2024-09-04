@@ -1,0 +1,52 @@
+---
+title: "Camryn Cohen"
+image: "Camryn.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/camryn-cohen-16b044188/"
+  - label: Twitter
+    url: "https://x.com/CamrynCohen5"
+  - label: Google Scholar 
+    url: "https://scholar.google.com/citations?user=5_wTrzkAAAAJ&hl=en&oi=ao"
+  - label: Email
+    url: "mailto:ccohen31@jh.edu"
+output:
+  postcards::trestles
+---
+
+## <span style="color: purple;"> Research Interests</span>
+  + Clinical & Molecular epidemiology 
+  + Gynecologic and HPV-associated cancers 
+  + Biomarkers for cancer screening and prevention 
+  + Health Disparities in cancer survivorship 
+
+## <span style="color: purple;"> Education & Training</span>
+
+<span style="color: violet;"> **Johns Hopkins Bloomberg School of Public Health** | May 2025
+
+  + Sc.M., Epidemiology | Certificate: Health Disparities and Health Inequality
+
+<span style="color: violet;">**National Cancer Institute Division of Cancer Epidemiology & Genetics** | Jun 2021 - Present
+
+  + Cancer Research Training Fellow & Contractor 
+
+<span style="color: violet;"> **Brandeis University** | May 2021
+
+  + B.S., Biology, Chemistry, Health: Science, Society & Policy
+
+## <span style="color: purple;"> Publications</span>
+
+1.	**Cohen CM**, Wentzensen N, Lahrmann B, Tokugawa D, Poitras N, Bartels L, Krauthoff A, Keil A, Miranda F, Castle PE, Lorey T, Hare B, Darragh TM, Grabe N, Clarke MA. Automated evaluation of p16/Ki-67 dual stain cytology as a biomarker for detection of anal precancer in MSM living with HIV. Clin Infect Dis 2022; 75(9): 1565-1572. PMCID: PMC9617575
+
+2.	**Cohen CM**, Wentzensen N, Castle PE, Schiffman M, Zuna R, Arend RC, Clarke MA. Racial and ethnic differences in cervical cancer incidence, survival, and mortality by histologic subtype. J Clin Oncol 2023; 41(5): 1059-1068. PMCID: PMC9928618
+
+3.	Jayasekera J, Fernandez JR, Woo JMP, Ezeani A, Ish JL, Bhattacharya M, Ogunsina K, Chang C, Wojcik KM, **Cohen CM**, Kamil D, Zhang J, Le R, Ponce S, Ramanathan A, Butera G, Chapman C, Dash C, Grant SJ, Bethea, TN, Lewis-Thames MW, Forde AT. Opportunities, challenges, and future directions for modeling the effects of structural racism on cancer mortality in the United States: a scoping review. JNCI Monographs 2023; 2023(62): 231-245. PMCID: PMC10637025
+
+4.	Befano B, Wentzensen N, Lorey T, Poitras N, Cheung LC, Schiffman M, Clarke M, **Cohen CM**, Kinney W, Locke A, Castle PE. Calendar-period trends in cervical precancer and cancer diagnoses since the introduction of human papillomavirus and cytology co-testing into routine cervical cancer screening at Kaiser Permanente Northern California. Gynecologic Oncology 2024; 184: 89-95. PMID: 38301311
+
+5.	Wilson OWA, Wojcik KM, **Cohen CM**, Kamil D, Butera G, Matthews CE, Dieli-Conwright CM, Jayasekera J. Exercise and Cardiovascular Health among Breast Cancer Survivors: A Scoping Review of Current Evidence. [2024; submitted for publication]. 
+
+6.	Wentzensen N#, **Cohen CM#**, Harvey S, Clarke MA. Ovarian cancer incidence, survival, and incidence-based mortality trends by race/ethnicity and subtype. [2024; manuscript in preparation]. #Authors contributed equally to work
+
+7.	**Cohen CM**, Clarke MA (2023) Anal cancer and anal cancer screening. In Guido R (Ed). Contemporary Recommendations for Cervical Cancer and Anal Cancer Screening and Prevention. Clin Obstet Gynecol 2023; 66(3): 516-533. PMID: 37439541 
+
